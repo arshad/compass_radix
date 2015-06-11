@@ -28,7 +28,7 @@
 }
 
 // Breakpoint mixin.
-// Usage: @include breakpoing(sm) { ... }
+// Usage: @include breakpoint(sm) { ... }
 // -----------------------------------------------------------------------------
 @mixin breakpoint($class) {
   @if $class == xs {
