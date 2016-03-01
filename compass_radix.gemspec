@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary = %q{a compass extension for the Drupal Radix theme}
   s.description = %q{A compass extension for the Drupal Radix theme. See http://drupal.org/project/radix}
   s.email = "arshad@chummun.com"
-  s.homepage = "http://arshad.github.io/"
+  s.homepage = "http://arshad.io/"
 
   # Gem Files
   s.files = %w(README.md)
